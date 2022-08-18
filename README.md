@@ -8,3 +8,13 @@
    Poderá cancelar sua reserva há qualquer momento.
    
  . Houses: Usuario logado poderá cadastar uma nova casa, editar ou excluir suas casas quando quiser. Casas cadastradas devem conter uma Foto de capa, descrição, localização, preço da diária e o status(Disponivel ou Indisponivel).
+ 
+ #Comandos
+ 
+yarn init -y
+npm add express
+yarn add sucrase nodemon -D
+yarn add mongoose
+yarn add multer // pra trabalhar com multipart (insomnia)
+yarn add cors // pra deixar nossa api publica e qualquer um consumir
+yarn add yup // pra verificar validações (ex: usuário não conseguir cadastrar uma casa sem todos parâmetros)
