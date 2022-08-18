@@ -15,6 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/) 
 - [Express](https://expressjs.com/pt-br/)
+- [MongoDB](https://www.mongodb.com/atlas/database)
  
 ### Comandos 
  
