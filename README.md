@@ -9,7 +9,14 @@
    
  . Houses: Usuario logado poderá cadastar uma nova casa, editar ou excluir suas casas quando quiser. Casas cadastradas devem conter uma Foto de capa, descrição, localização, preço da diária e o status(Disponivel ou Indisponivel).
  
-<h1 align="center"> Comandos </h1>
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/) 
+- [Express](https://expressjs.com/pt-br/)
+ 
+### Comandos 
  
 ```
 yarn init -y
