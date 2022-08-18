@@ -1,4 +1,4 @@
-# DevHouse
+<h1 align="center"> DevHouse </h1>
 
     Projeto de API desenvolvida no curso: 
     # Curso completo de APIs com Nodejs, Express + MongoDB, SQL ministrado por Matheus Fraga.
@@ -9,10 +9,11 @@
    
  . Houses: Usuario logado poderá cadastar uma nova casa, editar ou excluir suas casas quando quiser. Casas cadastradas devem conter uma Foto de capa, descrição, localização, preço da diária e o status(Disponivel ou Indisponivel).
  
- #Comandos
+<h1 align="center"> Comandos </h1>
  
+```
 yarn init -y
-npm add express
+yarn add express
 yarn add sucrase nodemon -D
 yarn add mongoose
 yarn add multer // pra trabalhar com multipart (insomnia)
